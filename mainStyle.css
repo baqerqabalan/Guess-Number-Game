@@ -1,0 +1,33 @@
+body{
+    background-color: blue;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+input[type="number"]{
+    align-items: center;
+    background-color: white;
+    color:black;
+    font-size: 3vw;
+    border-radius: 5%;
+    width:20%;
+    margin-left: 35%;
+    margin-top: 15%;
+}
+.submit-btn{
+    align-items: center;
+    background-color: aquamarine;
+    color:white;
+    font-size: 3vw;
+    border-radius: 5%;
+}
+.result{
+    align-items: center;
+    margin: 10%;
+    color:white;
+    background-color: brown;
+    font-size: 3vw;
+}
